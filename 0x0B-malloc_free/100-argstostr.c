@@ -6,7 +6,7 @@
  * argstostr - convert the params passed to the program to string
  * @ac: the argument count
  * @av: the argument vector
- * Return
+ * Return: ...
  */
 char *argstostr(int ac, char **av)
 {
